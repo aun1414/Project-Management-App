@@ -1,0 +1,1 @@
+This project is a Project Management App implemented using GraphQL. It provides a server with CRUD operations for managing projects and clients, utilizing Express, Mongoose, and GraphQL. The application allows users to interact with the server through GraphQL queries and mutations, facilitating the creation, deletion, and modification of both projects and clients.
